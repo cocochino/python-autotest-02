@@ -21,4 +21,5 @@ def home():
 
 
 if __name__ == '__main__':
+    #this runs if its process __name__ is __main__
     app.run()
