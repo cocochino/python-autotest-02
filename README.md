@@ -1,2 +1,7 @@
 # python-autotest-02
-This corresponds Udemy Automated Software Testing with Python section 4. 
+Software test automation with Python. 
+
+Corresponds to Section 4 of Udemy class https://www.udemy.com/course/automated-software-testing-with-python
+
+First Flask app
+
