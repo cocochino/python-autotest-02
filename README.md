@@ -1,14 +1,7 @@
-# Stores REST Api
+#Software test automation with Python.
 
-This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
+Section 5 branch corresponds to Section 5 of Udemy class https://www.udemy.com/course/automated-software-testing-with-python
+Master branch corresponds to Section 4.
+Added own test donor files and a common configuration files.
 
-To get started:
-
-- Create a virtualenv for this project
-- Install requirements using `pip install -r requirements.txt`
-
-When you've created the first test, you'll also need to create a correct runtime configuration in PyCharm.
-
-Create a sample unittest configuration, and choose:
-
-- `Path` as target, with your project's `/tests` folder.
+First Flask app
